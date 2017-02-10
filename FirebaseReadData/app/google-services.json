@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "800691418019",
+    "firebase_url": "https://fir-readdata-d6ba5.firebaseio.com",
+    "project_id": "fir-readdata-d6ba5",
+    "storage_bucket": "fir-readdata-d6ba5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:800691418019:android:b7d7c1930bdd44e7",
+        "android_client_info": {
+          "package_name": "com.tabian.firebasereaddata"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "800691418019-nvs67vm7nh8pr8tqubvam2kp4ne7f75b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDV5lJxIC7MHPK3K96SaVdXrCWcAVpH4-Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "800691418019-nvs67vm7nh8pr8tqubvam2kp4ne7f75b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
